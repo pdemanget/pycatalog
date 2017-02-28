@@ -1,0 +1,4 @@
+remotes:
+ - name: elements
+   type: disk
+   path: /dev/disk/by-uuid/3df07bb7-0182-4744-92f7-3e96dc16dbe7
